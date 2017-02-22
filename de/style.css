@@ -1,29 +1,10 @@
-.header {
-  margin-top: 5%;
-  text-align: center;
-}
-#menu {
-  background-color: red;
-}
-.tabelle{
-  list-style-type: none;
-  margin-top:5%;
-  overflow: hidden;
-  background-color: #424242;
-}
-li{
-  float: left;
-}
-li p {
-  display: block;
-  color: #FFFFFF;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-family: Courier New;
+body{
+  background-image: url("bild.png");
+  background-attachment: fixed;
 }
 
-li p:hover {
-  background-color: #111;
-  color: #FF8000;
+.background {
+  background-image: url("bild.png");
+  color: white;
+  background-attachment: scroll;
 }
