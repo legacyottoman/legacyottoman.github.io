@@ -8,3 +8,10 @@ body{
   color: white;
   background-attachment: scroll;
 }
+
+footer {
+  text-decoration: blink;
+  color: #111111;
+  text-align: center;
+  font-family: Courier New;
+}
