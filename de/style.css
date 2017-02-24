@@ -10,8 +10,11 @@ body{
 }
 
 footer {
-  text-decoration: blink;
-  color: #111111;
   text-align: center;
+}
+
+#copy {
+  text-decoration: blink;
+  color: #FFFFFF;
   font-family: Courier New;
 }
