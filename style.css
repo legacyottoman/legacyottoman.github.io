@@ -1,0 +1,55 @@
+body{
+  background-image: url("bild.png");
+  background-attachment: fixed;
+}
+
+.background {
+  background-image: url("bild.png");
+  color: white;
+  background-attachment: scroll;
+}
+
+footer {
+  text-align: center;
+}
+
+#copy {
+  text-decoration: blink;
+  color: #FFFFFF;
+  font-family: Courier New;
+}
+
+.about {
+  margin-top: 5%;
+  background-color: transparent;
+  text-align: center;
+  font-size: 30px;
+  font-family: Verdana;
+}
+
+.text {
+  background-color: transparent;
+  font-size: 20px;
+  text-align: left;
+}
+
+.test{
+  width: 80%;
+  font-family: Arial;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top:20%;
+  text-align: center;
+  text-decoration: none;
+  color: #111111;
+}
+
+.link {
+  text-decoration: blink;
+  color: #111111;
+  font-family: Arial;
+}
+
+.right {
+  margin-left: 5%;
+}
