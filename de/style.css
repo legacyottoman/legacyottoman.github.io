@@ -13,10 +13,19 @@ footer {
   text-align: center;
 }
 
+p, h3 {
+  font-family: Roboto, Courier New;
+}
+
+.head {
+  font-size: 40px;
+  margin-top: 20%;
+}
+
 #copy {
   text-decoration: blink;
   color: #FFFFFF;
-  font-family: Courier New;
+  font-family: Roboto, Courier New;
 }
 
 .about {
@@ -24,7 +33,7 @@ footer {
   background-color: transparent;
   text-align: center;
   font-size: 30px;
-  font-family: Verdana;
+  font-family: Roboto, Courier New;
 }
 
 .text {
